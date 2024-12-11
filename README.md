@@ -14,4 +14,4 @@ I'm a DevOps engineer on a mission to streamline software delivery, automate pro
 
 ## My Motto 🎯
 Why intervene manually when you can trigger things automatically? 😎  
-Time is money 💰, so streamline it dramatically!
+Time is money 💰, so automate & chill..!
