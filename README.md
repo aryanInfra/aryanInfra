@@ -13,6 +13,25 @@ I'm a DevOps engineer on a mission to streamline software delivery, automate pro
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+# Tools I Work With
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+*Git* - Version control system
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+*GitHub* - Git-based platform for collaboration and version control
+
+### CI/CD Tools:
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+*Jenkins* - CI/CD tool for automating builds and deployments
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+*GitHub Actions* - CI/CD automation with GitHub
+
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)  
+*CircleCI* - Continuous integration and delivery platform
+
 ## My Motto 🎯
 Why intervene manually when you can trigger things automatically? 😎  
 Time is money 💰, so streamline it dramatically!
