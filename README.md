@@ -11,22 +11,7 @@ I'm a DevOps engineer on a mission to streamline software delivery, automate pro
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Git_logo_2016.svg/1280px-Git_logo_2016.svg.png)  
-*Git* - Version control system
-
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)  
-*GitHub* - Git-based platform for collaboration and version control
-
-### CI/CD Tools:
-![Jenkins Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jenkins_logo.svg/600px-Jenkins_logo.svg.png)  
-*Jenkins* - CI/CD tool for automating builds and deployments
-
-![GitHub Actions Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Actions_logo.svg)  
-*GitHub Actions* - CI/CD automation with GitHub
-
-![CircleCI Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/CircleCI_logo.svg)  
-*CircleCI* - Continuous integration and delivery platform
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Motto 🎯
 Why intervene manually when you can trigger things automatically? 😎  
